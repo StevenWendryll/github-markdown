@@ -1,5 +1,3 @@
-# Steven
-
 # Github-Markdown
 
 ## Repositório para teste de markdown
@@ -21,7 +19,7 @@ Primeiro | Segundo | Terceito
 -|-|-
 1 | 2 | 3
 3 | 4 | 5
-<br><br>
+<br>
 
 ### Listas NÃO ordenadas com Markdown
 - Item 1
